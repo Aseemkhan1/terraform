@@ -15,7 +15,8 @@ resource "aws_s3_bucket_policy" "b" {
       "Principal": "*",
       "Action": "s3:*",
       "Resource": "arn:aws:s3:::ak-ansible-1/*",
-     "Condition": {
+      "Condition": {
+         "IpAddress": {"aws:SourceIp": "x.x.x.x/32"}
       } 
     } 
   ]
