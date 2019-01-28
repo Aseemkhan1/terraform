@@ -11,10 +11,10 @@ Install Terraform - https://www.terraform.io/downloads.html
 
 #Project(AWS)
 This Terraform example code creates
-VPC
-Two Public Subnet and Two Private Subnet
-EC2
-Security Group
+VPC,
+Two Public Subnet and Two Private Subnet,
+EC2,
+Security Group,
 
 #Project(Azure)
 This Terraform example code creates Azure infrastructure
