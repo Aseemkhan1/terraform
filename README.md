@@ -9,12 +9,15 @@ https://www.terraform.io/intro/examples/aws.html
 #Getting started with Terraform and AWS
 Install Terraform - https://www.terraform.io/downloads.html
 
-#Project
-This Terraform project creates
+#Project(AWS)
+This Terraform example creates
 VPC
 Two Public Subnet and Two Private Subnet
 EC2
 Security Group
+
+#Project(Azure)
+This Terraform example code creates Azure infrastructure
 
 # Executing the terraform
 terraform plan
