@@ -10,7 +10,7 @@ https://www.terraform.io/intro/examples/aws.html
 Install Terraform - https://www.terraform.io/downloads.html
 
 #Project(AWS)
-This Terraform example creates
+This Terraform example code creates
 VPC
 Two Public Subnet and Two Private Subnet
 EC2
