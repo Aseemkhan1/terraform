@@ -18,7 +18,7 @@ resource "azurerm_virtual_machine_extension" "cs_apache" {
 SETTINGS
 
   tags {
-	group = "LinuxAcademy"
+	group = "DB_Group"
   }
 }
 
